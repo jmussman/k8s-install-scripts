@@ -34,6 +34,10 @@ Administrators should test these scripts in a sandbox before trying to use it in
 * Repositories updated to use https://pkgs.k8s.io since the Google k8s repositories were end-of-lifed 3/4/2024.
 * containerd and CRI *enabled*.
 
+## See Also
+
+* The Kubernetes certificates renewal script at https://github.com/jmussman/renew-k8s-certificates 
+
 ## License
 
 The code is licensed under the MIT license. You may use and modify all or part of it as you choose, as long as attribution to the source is provided per the license. See the details in the [license file](./LICENSE.md) or at the [Open Source Initiative](https://opensource.org/licenses/MIT).

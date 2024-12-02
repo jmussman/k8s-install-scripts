@@ -2,8 +2,8 @@
 [//]: # (Copyright © 2024 Joel A Mussman. All rights reserved.)
 [//]: #
 
-![Banner Light](./.assets/banner-k8s-install-scripts-light.png#gh-light-mode-only)
-![banner Dark](./.assets/banner-k8s-install-scripts-dark.png#gh-dark-mode-only)
+![Banner Light](https://raw.githubusercontent.com/jmussman/cdn-fun/main/banners/banner-k8s-install-scripts-light.png#gh-light-mode-only)
+![Banner Light](https://raw.githubusercontent.com/jmussman/cdn-fun/main/banners/banner-k8s-install-scripts-dark.png#gh-dark-mode-only)
 
 # Kubernetes Install Scripts
 
